@@ -1,0 +1,15 @@
+c:\users\darek\documents\visual studio 2015\Projects\RysuPisu\RysuPisu\bin\Debug\RysuPisu.exe.config
+c:\users\darek\documents\visual studio 2015\Projects\RysuPisu\RysuPisu\bin\Debug\RysuPisu.exe
+c:\users\darek\documents\visual studio 2015\Projects\RysuPisu\RysuPisu\bin\Debug\RysuPisu.pdb
+c:\users\darek\documents\visual studio 2015\Projects\RysuPisu\RysuPisu\obj\Debug\RysuPisu.csprojResolveAssemblyReference.cache
+c:\users\darek\documents\visual studio 2015\Projects\RysuPisu\RysuPisu\obj\Debug\MainWindow.g.cs
+c:\users\darek\documents\visual studio 2015\Projects\RysuPisu\RysuPisu\obj\Debug\App.g.cs
+c:\users\darek\documents\visual studio 2015\Projects\RysuPisu\RysuPisu\obj\Debug\RysuPisu_MarkupCompile.cache
+c:\users\darek\documents\visual studio 2015\Projects\RysuPisu\RysuPisu\obj\Debug\RysuPisu_MarkupCompile.lref
+c:\users\darek\documents\visual studio 2015\Projects\RysuPisu\RysuPisu\obj\Debug\MainWindow.baml
+c:\users\darek\documents\visual studio 2015\Projects\RysuPisu\RysuPisu\obj\Debug\RysuPisu.g.resources
+c:\users\darek\documents\visual studio 2015\Projects\RysuPisu\RysuPisu\obj\Debug\RysuPisu.Properties.Resources.resources
+c:\users\darek\documents\visual studio 2015\Projects\RysuPisu\RysuPisu\obj\Debug\RysuPisu.csproj.GenerateResource.Cache
+c:\users\darek\documents\visual studio 2015\Projects\RysuPisu\RysuPisu\obj\Debug\RysuPisu.exe
+c:\users\darek\documents\visual studio 2015\Projects\RysuPisu\RysuPisu\obj\Debug\RysuPisu.pdb
+c:\users\darek\documents\visual studio 2015\Projects\RysuPisu\RysuPisu\bin\Debug\libpxcclr.cs.dll
